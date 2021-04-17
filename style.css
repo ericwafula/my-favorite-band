@@ -38,6 +38,28 @@
     text-align: center;
     color: #F082EE;
     margin-top: 100px;
+    margin-bottom: 15px;
     font-size: 75px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.member-names{
+    font-size: 30px;
+    margin-top: 5px;
+    display: inline;
+    font-weight: 700;
+}
+
+.fergie-image{
+    float: left;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.personal-description{
+    display: block;
+    font-size: 30px;
+    margin-right: 30px;
+    
 }
