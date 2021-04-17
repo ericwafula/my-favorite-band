@@ -1,5 +1,17 @@
 .header-image{
     width: 1000px;
     margin-left: 250px;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header-elements{
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    
 }
 
