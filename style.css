@@ -45,7 +45,7 @@
 
 .member-names{
     font-size: 30px;
-    margin-top: 5px;
+    padding-top: 40px;
     display: inline;
     font-weight: 700;
 }
@@ -53,7 +53,6 @@
 .fergie-image{
     float: left;
     width: 300px;
-    margin-left: 30px;
     margin-right: 30px;
 }
 
@@ -63,3 +62,13 @@
     margin-right: 30px;
     
 }
+
+.f-div{
+    overflow: auto;
+    clear: both;
+    border: #F082EE solid 5px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
