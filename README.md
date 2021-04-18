@@ -16,7 +16,7 @@ git init
 code .
 
 Testing Manually
-Open the index.html file on your preferred browser.Navigate through the pages with the provided links. Live link on github pages:
+Open the index.html file on your preferred browser.Navigate through the pages with the provided links. Live link on github pages: ericwafula.github.io/my-favorite-band/
 
 Built with HTML & CSS
 
