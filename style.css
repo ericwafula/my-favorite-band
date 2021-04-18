@@ -72,3 +72,10 @@
     margin-right: 30px;
 }
 
+.list-div{
+    border: #3f3e81 dotted 5px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 30px;
+}
