@@ -10,8 +10,8 @@ git clone https://github.com/ericwafula/my-favorite-band -install virtual enviro
 
 commands
 
-$git init
-$code .
+git init
+code .
 
 Testing Manually
 Open the index.html file on your preferred browser.Navigate through the pages with the provided links. Live link on github pages:
